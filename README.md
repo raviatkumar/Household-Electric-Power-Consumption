@@ -1,12 +1,12 @@
 # **Project Title : Household Electric Power Consumption**
 
-##**Problem Statement:**
+## **Problem Statement:**
 
 **The "Indian Household Electricity Consumption Dataset" presents a rich source of information for predicting monthly electricity bills in Indian households. The dataset encapsulates details on the monthly operational hours of various household appliances like fans, air conditioners, refrigerators, televisions, monitors, and motor pumps. Additionally, demographic factors such as the city of residence and the corresponding electricity distribution company are included. The primary objective of this dataset is to develop predictive models for estimating the monthly electricity bills of households based on their appliance usage patterns and pertinent demographic information. This predictive modeling task holds significant relevance for energy management strategies, allowing utilities and consumers to optimize electricity consumption. Moreover, it offers valuable insights into consumer behavior and preferences, contributing to a deeper understanding of electricity consumption patterns across diverse households in different cities served by distinct distribution companies.**.
 
 ![Alt text](https://raw.githubusercontent.com/raviatkumar/Household-Electric-Power-Consumption/main/image/pexels-pixabay-266688.jpg)
 
-##**Summary:**
+## **Summary:**
 
 The "Indian Household Electricity Consumption Dataset" provides valuable insights into predicting monthly electricity bills in Indian households. It encompasses data on monthly operational hours of various household appliances and demographic factors like the city of residence and electricity distribution company. The primary objective is to develop predictive models for estimating monthly electricity bills based on appliance usage patterns and demographic information.
 
